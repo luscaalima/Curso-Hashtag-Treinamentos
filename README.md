@@ -6,12 +6,9 @@ Este repositório contém meus estudos, exercícios e projetos desenvolvidos dur
 
 ## 📚 Conteúdo do Repositório  
 
-- **Introdução ao Python**  
-  - Sintaxe básica  
-  - Manipulação de dados com listas, dicionários e pandas  
 
 - **Análise de Dados**  
-  - Limpeza e tratamento de dados  
+  - Limpeza e tratamento de dados com **Pandas** 
   - Exploração e visualização com **Matplotlib** e **Seaborn**  
   - Estatística aplicada à análise  
 
@@ -42,7 +39,5 @@ Este repositório contém meus estudos, exercícios e projetos desenvolvidos dur
 - [Scikit-learn](https://scikit-learn.org/stable/)  
 - [TensorFlow](https://www.tensorflow.org/) / [Keras](https://keras.io/)  
 
----
 
-## 📂 Estrutura do Repositório  
 
